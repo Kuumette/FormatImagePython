@@ -1,5 +1,4 @@
 from PIL import Image
-import os, sys
 import glob
 
 root_dir = "C:/Users/kuume/OneDrive/Bureau/python/img"
